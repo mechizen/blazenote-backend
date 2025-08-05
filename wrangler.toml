@@ -13,6 +13,11 @@ custom_domain = true
 # database_name = "blazenote"
 # database_id = "<DATABASE ID>"
 # migrations_dir = "./migrations"
+[[d1_databases]]
+binding = "DB"
+database_name = "blazenote"
+database_id = "ab16490c-718d-43c0-b0b9-ed39a617e454"
+migrations_dir = "./migrations"
 
 # [ai]
 # binding = "AI"
